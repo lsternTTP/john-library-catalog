@@ -1,0 +1,104 @@
+{
+  "catalog": [
+    {
+      "id": 1,
+      "title": "The Caves of Steel",
+      "author": "Isaac Asimov",
+      "description": "The growth of humanity is dependant on humans overcoming their irrational antagonism toward robots.",
+      "forecast": "Future Technology Foretold: Fingerprint scanner.",
+      "published": 1954,
+      "language": "English",
+      "img": "src/img2/The-caves-of-steel-doubleday-cover.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The City and the Stars",
+      "author": "Arthur C. Clarke",
+      "description": "The inhabitants of Diaspar believe their domed city is all that remains of an empire that had once conquered the stars.",
+      "forecast": "Future Technolody Foretold: Immersive virtual reality.",
+      "published": 1956,
+      "language": "English",
+      "img": "src/img2/The_City_and_the_Stars_hardcover.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Cyborg",
+      "author": "Martin Caidin",
+      "description": "An astronaut's body is destroyed in a catastrophic accident. He is rebuilt with experimental technology.",
+      "forecast": "Future Technology Foretold: Robotic prothesis.",
+      "published": 1972,
+      "language": "English",
+      "img": "src/img2/CyborgNovel.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Farenheit 451",
+      "author": "Ray Bradbury",
+      "description": "Guy Montag is a fireman. His job is to destroy the most illegal of commodities, the printed book. After meeting Clarisse, he begins to question everything he has ever known.",
+      "forecast": "Future Technology Foretold: Earbuds, flatscreen television, automated teller machine.",
+      "published": 1953,
+      "language": "English",
+      "img": "src/img2/Fahrenheit_451_1st_ed_cover.jpg"
+    },
+    {
+      "id": 5,
+      "title": "The Machine Stops",
+      "author": "E. M. Forster",
+      "description": "The human population has lost the ability to live on the surface of the Earth. Each individual now lives in isolation below ground in a standard room, with all bodily and spiritual needs met by the omnipotent, global Machine.",
+      "forecast": "Future Technology Foretold: Television, Home automation (smart home), internet, instant messaging, social media.",
+      "published": 1909,
+      "language": "English",
+      "img": "src/img2/machine_stops.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Men Like Gods",
+      "author": "H. G. Wells",
+      "description": "Mr. Barnstaple finds himself in a utopian parallel universe.",
+      "forecast": "Future Technology Foretold: Email, voicemail.",
+      "published": 1923,
+      "language": "English",
+      "img": "src/img2/MenLikeGodsHGWells.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Metropolis",
+      "author": "Thea von Harbou",
+      "description": "A technologically advanced city is sustained by the existence of an exploited class of laborers who live underground, far away from the gleaming surface world.",
+      "forecast": "Future Technology Foretold: Robots.",
+      "published": 1925,
+      "language": "English",
+      "img": "src/img2/Harbou_Metropolis_1926.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Neuromancer",
+      "author": "William Gibson",
+      "description": "Set in the future, we follow Henry Case, a washed-up hacker hired for one last job, which brings him in contact with a powerful artificial intelligence.",
+      "forecast": "Future Technology Foretold: World Wide Web, virtual reality.",
+      "published": 1984,
+      "language": "English",
+      "img": "src/img2/Neuromancer_(Book).jpg"
+    },
+    {
+      "id": 9,
+      "title": "Space Cadet",
+      "author": "Robert Heinlein",
+      "description": "Coming of age tale taking place in an outer space military academy.",
+      "forecast": "Future Technology Foretold: Mobile phone.",
+      "published": 1948,
+      "language": "English",
+      "img": "src/img2/SpaceCadet.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Ubik",
+      "author": "Philip K. Dick",
+      "description": "A mind-bending, classic about the perception of reality.",
+      "forecast": "Future Technology Foretold: Internet of Things.",
+      "published": 1969,
+      "language": "English",
+      "img": "src/img2/Ubik.jpg"
+    }
+  ]
+}

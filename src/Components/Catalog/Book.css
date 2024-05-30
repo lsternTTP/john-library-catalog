@@ -1,0 +1,32 @@
+h2 {
+  color: red;
+  font-size: 35px;
+  font-family: "Roboto Mono";
+}
+
+.book-card {
+  border: 2px solid red;
+  padding: 20px;
+  margin: 10px;
+  color:  white;
+  
+}
+#forecast {
+  font-family: 'Press Start 2P', serif;
+  color:  #04ff00;
+}
+#author {
+  color: #04ff00;
+}
+#published{
+  color: skyblue;
+}
+
+.book-card:hover {
+  scale: 1.007;
+}
+
+
+img {
+  height: 125px;
+}

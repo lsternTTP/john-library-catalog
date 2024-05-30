@@ -1,0 +1,177 @@
+#footer{
+  background-image: url('src/img2/green_circuitry.jpg');
+}
+main {
+  background-image: url('src/img/Binary_blue.jpg');
+}
+#top{
+  background-image: url('src/img2/green_circuitry.jpg');
+  border: 2px solid red;
+}
+
+#myRequestStyle {
+font-size: 25px;
+  border: 15px solid #41e141;
+  text-align: center;
+  top-padding: 10px;
+  margin: 10px;
+  color: #c9e8e8;
+  background-color: #121212;
+  opacity: 0.9;
+}
+#aut{
+  color: #e6e8c9;
+  
+}
+
+#but{
+  color: red;
+ 
+}
+
+#h2Requests{
+  color: #41e141;
+  font-family: 'Audiowide', cursive;
+  font-size: 60px;
+  /* text-decoration: underline; */
+  border: 3px solid red;
+  background-color: #1b1523; opacity: 0.9;
+  border-radius: 5px;
+  margin: 10px;
+}
+#Rq {
+  color: white;
+  font-size: 25px;
+  font-family: "Raleway" , sans-serif;
+  
+}
+
+
+#h3{
+  background-color: #41e141;
+  border: 2px solid red;
+  border-radius: 60px;
+  font-family: 'Roboto Mono', cursive;
+  font-size: 28px;
+  color: red;
+  text-align: center;
+}
+
+#h1 {
+  color: #18f718;
+  font-size: 70px;
+  font-family: "Audiowide", "serif";
+  padding: 20px;
+  border: 2px solid red;
+  background-color: #262525; opacity:0.9;
+    animation-name: change;
+    animation-duration: 8s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+  }
+
+
+
+#Sbut {
+border: 5px solid blue;
+  border-radius: 10px;
+  font-size: 30px;
+  font-family: 'Roboto Mono', cursive;
+  color: red;
+  background-color: black;
+}
+
+#turns {
+  font-size: 30px;
+  border: 2px solid red;
+  background-color: #262525; opacity:0.9;
+  border-radius: 75px;
+  color: #18f718;
+  font-family: "Audiowide", "serif";
+  margin: 4px;
+}
+
+#but3 {
+
+  border: 5px solid blue;
+  border-radius: 10px;
+  font-size: 30px;
+  font-family: 'Roboto Mono', cursive;
+  color: red;
+}
+  
+  #searchInput {
+    border: 5px solid blue;
+    border-radius: 10px;
+    font-size: 30px;
+    font-family: 'Anton', cursive;
+    color: red;
+    background-color: silver;
+  }
+
+
+
+  @keyframes change {
+
+    0% {
+      background-color: #262525;
+    }
+  5% {
+    background-color: #1a1919;
+  }
+    10% {
+      background-color: #121212;
+    }
+
+    20% {
+      background-color: #1a1919;
+    }
+
+    30% {
+      background-color: #262525;
+    }
+
+    40% {
+      background-color: #1a1919;
+    }
+    50% {
+      background-color: #121212;
+    }
+
+    60% {
+      background-color: #1a1919;
+    }
+
+    70% {
+      background-color: #262525;
+    }
+
+    80% {
+      background-color: #1a1919;
+    }
+
+    90% {
+      background-color: #121212;
+    }
+    100% {
+      background-color: #1a1919;
+    }  
+}
+
+ul {
+  display: flex;
+  list-style-type: none;
+  flex-direction: column;
+}
+
+#books-and-requests {
+  display: flex;
+}
+.li {
+  color: #00ff2a;
+  font-size: 25px;
+  font-family: "Anton", serif;
+}
+#footer{
+  border: 2px solid red;
+}

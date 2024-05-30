@@ -1,0 +1,57 @@
+
+
+  #all-books-list {
+  background-color: #262525; opacity:0.9;
+  width: 40vw;
+
+  animation-name: change;
+  animation-duration: 8s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+}
+
+  @keyframes change {
+
+    0% {
+      background-color: black;
+    }
+  10% {
+    background-color: black;
+  }
+    20% {
+      background-color: black;
+    }
+
+    30% {
+      background-color: b#0e010e;
+    }
+
+    40% {
+      background-color: black;
+    }
+
+    50% {
+      background-color: black;
+    }
+    60% {
+      background-color: black;
+    }
+
+    70% {
+      background-color: #0e010e;
+    }
+
+    80% {
+      background-color: #121212;
+    }
+
+    90% {
+      background-color: #0e010e;
+    }
+
+    100% {
+      background-color: black;
+    }
+    
+}
+
