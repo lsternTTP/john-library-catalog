@@ -3,14 +3,12 @@ import './Game.css';
 import SingleCard from './SingleCard'
 
 const cardImages= [
-  {"src": "public/images3/Cyborg1.jpg", matched: false},
-  {"src": "public/images3/Farenheit3.jpg", matched: false},
-  {"src": "public/images3/The_City_and_the_Stars_hardcover.jpg", matched: false},
-  {"src": "public/images3/Neuromancer3.jpg", matched: false},
-  {"src": "public/images3/The-caves-of-steel-doubleday-cover.jpg", matched: false},
-  {"src": "public/images3/Ubik.jpg", matched: false},
-
-
+  {"src": "https://github.com/lsternTTP/john-library-catalog/blob/main/public/images3/Cyborg1.jpg?raw=true", matched: false},
+  {"src": "https://github.com/lsternTTP/john-library-catalog/blob/main/public/images3/Farenheit3.jpg?raw=true", matched: false},
+  {"src": "https://github.com/lsternTTP/john-library-catalog/blob/main/public/images3/The_City_and_the_Stars_hardcover.jpg?raw=true", matched: false},
+  {"src": "https://github.com/lsternTTP/john-library-catalog/blob/main/public/images3/Neuromancer3.jpg?raw=true", matched: false},
+  {"src": "https://github.com/lsternTTP/john-library-catalog/blob/main/public/images3/The-caves-of-steel-doubleday-cover.jpg?raw=true", matched: false},
+  {"src": "https://github.com/lsternTTP/john-library-catalog/blob/main/public/images3/Ubik.jpg?raw=true", matched: false},
 ];
 
 export default function Game() {
