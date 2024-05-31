@@ -19,7 +19,7 @@ return (
   <img className="front" src={card.src} alt="card front" />
     <img 
       className="back" 
-      src="public/images3/NewCrystalBall.png" 
+      src="https://github.com/lsternTTP/john-library-catalog/blob/main/public/images3/NewCrystalBall.png?raw=true" 
       onClick={handleClick} 
       alt="card back" />
   </div>

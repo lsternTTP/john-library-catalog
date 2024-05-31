@@ -8,7 +8,7 @@
       "forecast": "Future Technology Foretold: Fingerprint scanner.",
       "published": 1954,
       "language": "English",
-      "img": "src/img2/The-caves-of-steel-doubleday-cover.jpg"
+      "img": "https://github.com/lsternTTP/john-library-catalog/blob/main/src/img2/The-caves-of-steel-doubleday-cover.jpg?raw=true"
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "forecast": "Future Technolody Foretold: Immersive virtual reality.",
       "published": 1956,
       "language": "English",
-      "img": "src/img2/The_City_and_the_Stars_hardcover.jpg"
+      "img": "https://github.com/lsternTTP/john-library-catalog/blob/main/src/img2/The_City_and_the_Stars_hardcover.jpg?raw=true"
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@
       "forecast": "Future Technology Foretold: Robotic prothesis.",
       "published": 1972,
       "language": "English",
-      "img": "src/img2/CyborgNovel.jpg"
+      "img": "https://github.com/lsternTTP/john-library-catalog/blob/main/src/img2/CyborgNovel.jpg?raw=true"
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "forecast": "Future Technology Foretold: Earbuds, flatscreen television, automated teller machine.",
       "published": 1953,
       "language": "English",
-      "img": "src/img2/Fahrenheit_451_1st_ed_cover.jpg"
+      "img": "https://github.com/lsternTTP/john-library-catalog/blob/main/src/img2/Fahrenheit_451_1st_ed_cover.jpg?raw=true"
     },
     {
       "id": 5,
@@ -48,7 +48,7 @@
       "forecast": "Future Technology Foretold: Television, Home automation (smart home), internet, instant messaging, social media.",
       "published": 1909,
       "language": "English",
-      "img": "src/img2/machine_stops.jpg"
+      "img": "https://github.com/lsternTTP/john-library-catalog/blob/main/src/img2/machine_stops.jpg?raw=true"
     },
     {
       "id": 6,
@@ -58,7 +58,7 @@
       "forecast": "Future Technology Foretold: Email, voicemail.",
       "published": 1923,
       "language": "English",
-      "img": "src/img2/MenLikeGodsHGWells.jpg"
+      "img": "https://github.com/lsternTTP/john-library-catalog/blob/main/src/img2/MenLikeGodsHGWells.jpg?raw=true"
     },
     {
       "id": 7,
@@ -68,7 +68,7 @@
       "forecast": "Future Technology Foretold: Robots.",
       "published": 1925,
       "language": "English",
-      "img": "src/img2/Harbou_Metropolis_1926.jpg"
+      "img": "https://github.com/lsternTTP/john-library-catalog/blob/main/src/img2/Harbou_Metropolis_1926.jpg?raw=true"
     },
     {
       "id": 8,
@@ -78,7 +78,7 @@
       "forecast": "Future Technology Foretold: World Wide Web, virtual reality.",
       "published": 1984,
       "language": "English",
-      "img": "src/img2/Neuromancer_(Book).jpg"
+      "img": "https://github.com/lsternTTP/john-library-catalog/blob/main/src/img2/Neuromancer_(Book).jpg?raw=true"
     },
     {
       "id": 9,
@@ -88,7 +88,7 @@
       "forecast": "Future Technology Foretold: Mobile phone.",
       "published": 1948,
       "language": "English",
-      "img": "src/img2/SpaceCadet.jpg"
+      "img": "https://github.com/lsternTTP/john-library-catalog/blob/main/src/img2/SpaceCadet.jpg?raw=true"
     },
     {
       "id": 10,
@@ -98,7 +98,7 @@
       "forecast": "Future Technology Foretold: Internet of Things.",
       "published": 1969,
       "language": "English",
-      "img": "src/img2/Ubik.jpg"
+      "img": "https://github.com/lsternTTP/john-library-catalog/blob/main/src/img2/Ubik.jpg?raw=true"
     }
   ]
 }
